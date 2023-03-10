@@ -1,6 +1,6 @@
 # Hi there!
 
-I'm just another OpenCart module developer! And here is the place where I store the source codes of the modules and extensions I develop for this CMS.
+My name is Andrii and I'm just another OpenCart module developer, and here is the place where I store the source codes of the modules and extensions I develop for this CMS.
 
 Most of sources are encrypted because that modules are paid, but there are also some free ones. So, for the most part, here you can only read descriptions - what an extension or module is for, what they can do, and so on. 
 
