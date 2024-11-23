@@ -1,7 +1,7 @@
 # Hi there!
 
-I'm just another OpenCart module developer, and here is the place where I store the source codes of the modules and extensions I develop for this CMS. Due to the fact that most modules are commercial, their source codes are encrypted, but there are also open source ones. So repositories of commercial modules are actually showcases where you can read detailed descriptions and track updates and changes. 
+I'm an OpenCart module developer (and [more](https://github.com/fpvcode)), and this is where I store the source code for the modules and extensions I create for this CMS. While most modules are commercial and their code is encrypted, there are also open-source ones available. The commercial repositories serve as showcases where you can read detailed descriptions, track updates, and changes.
 
-So follow this profile and the repositories you are interested in to stay up to date with new versions, make suggestions for improvements or bugs.
+Follow this profile and the repositories you're interested in to stay up to date with new versions, suggest improvements, or report bugs.
 
-All modules and extension are available on the [**OpenCart Marketplace**](https://www.opencart.com/index.php?route=marketplace/extension&filter_member=ocmod.space).
+All modules and extensions are available on the [**OpenCart Marketplace**](https://www.opencart.com/index.php?route=marketplace/extension&filter_member=ocmod.space).
