@@ -4,4 +4,4 @@ I'm an OpenCart module developer (and [more](https://github.com/codyverse)), and
 
 Follow this profile and the repositories you're interested in to stay up to date with new versions, suggest improvements, or report bugs.
 
-All modules and extensions are available on the [**OpenCart Marketplace**](https://www.opencart.com/index.php?route=marketplace/extension&filter_member=ocmod.space).
+All modules and extensions are available on the [**OpenCart Marketplace**](https://marketplace.ocmod.space).
